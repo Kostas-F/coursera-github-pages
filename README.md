@@ -10,4 +10,5 @@ This is a temporary repo, and a sample static site for a course.
 6. Install latest ruby and set it to global
 7. Install jekyl,upgrade bundler and generate jekyll skeleton
 8. Add github pages gem to gemfile (as per the comments in the original Gemfile) and ran bundle install
-
+9. That gemfile broke the site I then ran commands that broke jekyll
+10. Moved site to root after reinstalling the gems I wrongly removed. This version does not use the github pages gem
