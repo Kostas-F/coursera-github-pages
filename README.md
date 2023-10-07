@@ -13,4 +13,5 @@ This is a temporary repo, and a sample static site for a course.
 9. That gemfile broke the site I then ran commands that broke jekyll
 10. Moved site to root after reinstalling the gems I wrongly removed. This version does not use the github pages gem
 11. Followed instrictions in the gemfile and now it does not work locally. Trying pages
+12. Pages semi-worked but things were broken. Ran bundle add webrick and it seems to have helped when running with bundle exec
 
