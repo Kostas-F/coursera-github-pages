@@ -4,13 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a temporary website I created to fit the needs of a Coursera course and familiarize myself a bit with jekyll, github pages, github actions etc. It is supposed to have some content so there may be some stuff I find interesting around (or a bunch of lorem ipsum)
+This is the base Jekyll theme, Minima. I might try some others if I feel like it.
 
-You can find the source code for Minima at GitHub:
+Stuff used around these pages :
+
+Minima:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
+Jekyll:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
