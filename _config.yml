@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Brain deposirory
+title: Brain depository
 email: [email protected]
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a temporary static website (baically a bunch of pages) to
-	fit the needs of a coursera course. It will likely contain filler content
-	that I find interesting. Thus the name brain depository
+  This is a temporary static website (basically a bunch of pages) to
+  fit the needs of a coursera course. It will likely contain filler content
+  that I find interesting. Thus the name brain depository
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
