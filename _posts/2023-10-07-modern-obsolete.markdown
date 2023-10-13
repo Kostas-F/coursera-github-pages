@@ -17,6 +17,7 @@ At this point, I have helped almost all my friends and family buy computers. All
 
 Why is it even an option to buy an unusable, unservicable and borderline unupgradable laptop? Who is it for?
 
+
 I tried to see what the limit was and while looking I found out about coreboot. Nothing to do with getting more performance out of a computer but also really cool. A copmletely open source, modern computer that can reliably get you through your web browsing, pdf reading, email writing day. 
 
 I bought a 50€ beat up thinkpad X200 with a top of the line core 2 duo (P8800 i think?) with a partially working keyboard. The only thing wrong was an iffy ribbon cable connection. Already with the 4Gb of ram on it xfce debian was usable. After a couple of months I stumbled upon and liberated a pair of 2rx8 4Gb sticks from a friends laptop I was repasting (don't worry I gave him an upgrade) and I bought a clip from aliexpress to hook up to a pi. After flashing libre boot (for that tasty blobless experience) I re-installed debian and I tried to use the laptop as my personal weekend laptop. And I realized it was fine. It was slower, hotter and sometimes it lagged when I had more than it could handle open but there was no reason I could not get by on it.
